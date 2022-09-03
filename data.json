@@ -1,0 +1,35 @@
+{
+    "name": "Rishi Suresh",
+    "pageTitle": "",
+    "photo": "",
+    "designation": "",
+    "social": [
+        {
+            "name": "instagram",
+            "link": ""
+        },
+        {
+            "name": "github",
+            "link": ""
+        },
+        {
+            "name": "linkedin",
+            "link": ""
+        },
+        {
+            "name": "gmail",
+            "link": ""
+        }
+    ],
+    "projects": [
+
+    ],
+    "experience": [
+        {
+
+        }
+    ],
+    "skills": [
+
+    ]
+}
